@@ -1,6 +1,5 @@
-amount, balance = input().split()
+amount, balance = map(float, input().split())
 amount = int(amount)
-balance = float(balance)
 bankCharges = 0.50
 
 if (amount % 5 == 0) and ((amount + bankCharges) < balance):

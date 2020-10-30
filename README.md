@@ -44,3 +44,58 @@ Output:
 15
 9
 8
+
+## findRemainder.py
+Input:
+3 
+1 2
+100 200
+40 15
+
+Output:
+1
+100
+10
+
+## turboSort.py
+Input:
+5
+5
+3
+6
+7
+1
+
+Output:
+1
+3
+5
+6
+7
+
+## sumOfFirst_LastDigits.py
+Input
+3 
+1234
+124894
+242323
+
+Output
+5
+5
+5
+
+Input:
+5
+447474
+228
+6664
+40
+81
+
+Output:
+4
+0
+1
+1
+0
