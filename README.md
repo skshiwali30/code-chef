@@ -85,6 +85,7 @@ Output
 5
 5
 
+## luckyFour.py
 Input:
 5
 447474
@@ -99,3 +100,103 @@ Output:
 1
 1
 0
+
+## reverseNumber.py
+Input:
+4
+12345
+31203
+2123
+2300
+
+Output:
+54321
+30213
+3212
+32
+
+## squareRoot.py
+Input:
+3
+10
+5
+10000
+
+Output:
+3
+2
+100
+
+## secondLargest.py
+Input:
+3 
+120 11 400
+10213 312 10
+10 3 450
+
+Output:
+120
+312
+10
+
+## leadGame.py
+Input:
+5
+140 82
+89 134
+90 110
+112 106
+88 90
+
+Output:
+1 58
+
+## helpingChef.py
+Input:
+3 
+1
+12
+-5
+
+Output:
+Thanks for helping Chef!
+-1
+Thanks for helping Chef!
+
+## chef_operator.py
+Input:
+3
+10 20
+20 10
+10 10
+
+Output:
+<
+>
+=
+
+## ciel_Reciept.py
+Input:
+4
+10
+256
+255
+4096
+
+Output:
+2
+1
+8
+2
+
+## validTriangle.py
+Input:
+3 
+40 40 100
+45 45 90
+180 1 1
+
+Output:
+YES
+YES
+NO
