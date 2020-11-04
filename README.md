@@ -200,3 +200,48 @@ Output:
 YES
 YES
 NO
+
+## chef_remissness.py
+Input:
+1
+19 17
+
+Output:
+19 36
+
+## mahasena.py
+Input:
+5
+1 2 3 4 5
+
+Output:
+NOT READY
+
+## palindromeNumber.py
+Input:
+3
+331
+666
+343
+
+Output:
+loses
+wins
+wins
+
+## primalityTest.py
+Input:
+5
+23
+13
+20
+1000
+99991
+
+Output:
+yes
+yes
+no
+no
+yes
+
