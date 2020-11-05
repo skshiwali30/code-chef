@@ -245,3 +245,15 @@ no
 no
 yes
 
+## id_ship.py
+Input:
+3 
+B
+c
+D
+
+Output:
+BattleShip
+Cruiser
+Destroyer
+
